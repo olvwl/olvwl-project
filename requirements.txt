@@ -18,7 +18,6 @@ cycler==0.10.0
     # via matplotlib
 fastapi[standard]==0.68.1
     # via -r requirements.in
-gunicorn==20.0.0
 h11==0.12.0
     # via uvicorn
 httptools==0.2.0
